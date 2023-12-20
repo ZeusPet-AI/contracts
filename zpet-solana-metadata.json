@@ -1,5 +1,15 @@
 {
   "name": "Zues Pet AI",
   "symbol": "ZPET",
-  "image": "https://github.com/ZeusPet-AI/contracts/blob/main/zeuspet_logo.png"
+  "description": "Zeus’ Pet is a revolutionary deflationary AI meme token that drives innovation at the bleeding edge through collective effort and community energy. Our emblem, the divine Eagle of Zeus, is considered the most prominent of birds in classical antiquity in its role as a trusted companion and messenger of the King of the Gods, Zeus.",
+  "image": "https://github.com/ZeusPet-AI/contracts/blob/main/zeuspet_logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+        {
+          "uri": "https://github.com/ZeusPet-AI/contracts/blob/main/zeuspet_logo.png",
+          "type": "image/png"
+        }
+    ]
+  }
 }
