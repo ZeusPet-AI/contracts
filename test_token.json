@@ -1,0 +1,15 @@
+{
+  "name": "Token",
+  "symbol": "TOKEN",
+  "description": "The ultimate token test",
+  "image": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ZeusPet-AI/contracts/main/token.jpeg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}
