@@ -2,7 +2,7 @@
   "name": "Token",
   "symbol": "TOKEN",
   "description": "The ultimate token test",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/ZeusPet-AI/contracts/main/token.jpeg",
   "attributes": [],
   "properties": {
     "files": [
