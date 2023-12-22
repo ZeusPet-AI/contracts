@@ -1,6 +1,6 @@
 {
-  "name": "Token",
-  "symbol": "TOKEN",
+  "name": "Fun Token",
+  "symbol": "FUN",
   "description": "The ultimate token test",
   "image": "https://raw.githubusercontent.com/ZeusPet-AI/contracts/main/token.jpeg",
   "attributes": [],
